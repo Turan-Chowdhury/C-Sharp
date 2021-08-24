@@ -1,0 +1,31 @@
+﻿@using WorkingWithView.Models
+@*@model Student*@
+@model List<Student>
+
+@*<h1>@Model.RegNo</h1>*@
+
+@{
+    foreach (Student student in Model)
+    {
+        <h1>@student.AgeInYear</h1>
+    }
+}
+
+@*@{
+        List<Student> studentList = ViewBag.StudentList;
+    }
+
+    @{
+        foreach(Student student in studentList)
+        {
+            <h1>@student.Name</h1>
+        }
+    }*@
+
+@*@{
+        int a = 100;
+        int b = 200;
+        int c = a + b;
+    }
+
+    <h2>Value of C : @c</h2>*@

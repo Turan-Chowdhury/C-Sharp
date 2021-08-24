@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>JQuery Plugins</title>
+    <link href="Content/jquery-ui.css" rel="stylesheet" />
+    <style>
+        label.error {
+            color: red;
+            font-style: italic
+        }
+    </style>
+</head>
+<body>
+    <form id="registrationForm">
+        <table>
+            <tr>
+                <td>
+                    <label for="firstName">First Name :</label>
+                </td>
+                <td>
+                    <input type="text" name="firstName" id="firstName" />
+                </td>
+            <tr>
+                <td>
+                    <label for="lastName">Last Name :</label>
+                </td>
+                <td>
+                    <input type="text" name="lastName" id="lastName" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="email">Email :</label>
+                </td>
+                <td>
+                    <input type="email" name="email" id="email" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="dateOfBirth">Date of Birth :</label>
+                </td>
+                <td>
+                    <input type="text" name="dateOfBirth" id="dateOfBirth" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="password">Password :</label>
+                </td>
+                <td>
+                    <input type="password" name="password" id="password" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="description">Description :</label>
+                </td>
+                <td>
+                    <input type="text" name="description" id="description" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                </td>
+                <td>
+                    <input type="submit" value="Register" />
+                </td>
+            </tr>
+        </table>
+    </form>
+
+    <script src="Scripts/jquery-3.6.0.js"></script>
+    <script src="Scripts/ckeditor/ckeditor.js"></script>
+    <script src="Scripts/avro-v1.1.4.min.js"></script>
+    <script src="Scripts/jquery-ui.js"></script>
+    <script src="Scripts/jquery.validate.js"></script>
+    <script>
+        $(document).ready(function () {
+            CKEDITOR.required("description");
+
+            $("#firstName").avro();
+
+            $("#dateOfBirth").datepicker({
+                showAnim: "bounce",
+                changeMonth: true,
+                changeYear: true,
+                dateFormat: "d M, yy"
+            });
+
+            $("#registrationForm").validate({
+                rules: {
+                    firstName: "required",
+                    lastName: "required",
+                    email: {
+                        required: true,
+                        email: true
+                    },
+                    password: {
+                        required: true,
+                        minlength: 5
+                    }
+                },
+                messages: {
+                    firstName: "Please enter your firstname",
+                    lastName: "Please enter your lastname",
+                    email: {
+                        required: "Please provide email",
+                        email: "Please enter a valid email address"
+                    },
+                    password: {
+                        required: "Please provide a password",
+                        minlength: "Your password must be at least 5 characters long"
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>
+

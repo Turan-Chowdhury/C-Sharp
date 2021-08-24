@@ -1,0 +1,58 @@
+﻿@model HTMLHelperDataAnnotation.Models.StudentCourse
+
+@{
+    ViewBag.Title = "EnrollCourse";
+}
+
+<h2>EnrollCourse</h2>
+
+@using (Html.BeginForm())
+{
+    <table>
+        <tr>
+            <td>
+                @Html.LabelFor(m => m.StudentId)
+            </td>
+            <td>
+                @Html.DropDownListFor(m => m.StudentId, new SelectList(ViewBag.Students, "Id", "Name"), "--Select--")
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(m => m.CourseId)
+            </td>
+            <td>
+                @Html.DropDownListFor(m => m.CourseId, new SelectList(ViewBag.Courses, "Id", "Title"), "--Select--")
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(m => m.EnrollDate)
+            </td>
+            <td>
+                @Html.TextBoxFor(m => m.EnrollDate)
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                <input type="submit" value="Enroll" />
+            </td>
+        </tr>
+    </table>
+}
+
+@section styles
+{
+    <link href="~/Content/jquery-ui.css" rel="stylesheet" />
+}
+
+@section scripts
+{
+    <script src="~/Scripts/jquery-ui.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#EnrollDate").datepicker();
+        })
+    </script>
+}

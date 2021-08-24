@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\C#\ASP.NET\EnumExampleApp\bin\Debug\EnumExampleApp.exe.config
+C:\Users\HP\Desktop\C#\ASP.NET\EnumExampleApp\bin\Debug\EnumExampleApp.exe
+C:\Users\HP\Desktop\C#\ASP.NET\EnumExampleApp\bin\Debug\EnumExampleApp.pdb
+C:\Users\HP\Desktop\C#\ASP.NET\EnumExampleApp\obj\Debug\EnumExampleApp.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#\ASP.NET\EnumExampleApp\obj\Debug\EnumExampleApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\ASP.NET\EnumExampleApp\obj\Debug\EnumExampleApp.exe
+C:\Users\HP\Desktop\C#\ASP.NET\EnumExampleApp\obj\Debug\EnumExampleApp.pdb

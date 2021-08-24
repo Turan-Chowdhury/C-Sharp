@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\C#\ASP.NET\GenericsTypeExample\bin\Debug\GenericsTypeExample.exe.config
+C:\Users\HP\Desktop\C#\ASP.NET\GenericsTypeExample\bin\Debug\GenericsTypeExample.exe
+C:\Users\HP\Desktop\C#\ASP.NET\GenericsTypeExample\bin\Debug\GenericsTypeExample.pdb
+C:\Users\HP\Desktop\C#\ASP.NET\GenericsTypeExample\obj\Debug\GenericsTypeExample.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#\ASP.NET\GenericsTypeExample\obj\Debug\GenericsTypeExample.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\ASP.NET\GenericsTypeExample\obj\Debug\GenericsTypeExample.exe
+C:\Users\HP\Desktop\C#\ASP.NET\GenericsTypeExample\obj\Debug\GenericsTypeExample.pdb

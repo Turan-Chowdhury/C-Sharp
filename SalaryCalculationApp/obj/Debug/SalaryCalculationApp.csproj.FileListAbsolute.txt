@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\C#\SalaryCalculationApp\bin\Debug\SalaryCalculationApp.exe.config
+C:\Users\HP\Desktop\C#\SalaryCalculationApp\bin\Debug\SalaryCalculationApp.exe
+C:\Users\HP\Desktop\C#\SalaryCalculationApp\bin\Debug\SalaryCalculationApp.pdb
+C:\Users\HP\Desktop\C#\SalaryCalculationApp\obj\Debug\SalaryCalculationApp.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#\SalaryCalculationApp\obj\Debug\SalaryCalculationApp.SalaryCalculationUI.resources
+C:\Users\HP\Desktop\C#\SalaryCalculationApp\obj\Debug\SalaryCalculationApp.Properties.Resources.resources
+C:\Users\HP\Desktop\C#\SalaryCalculationApp\obj\Debug\SalaryCalculationApp.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#\SalaryCalculationApp\obj\Debug\SalaryCalculationApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\SalaryCalculationApp\obj\Debug\SalaryCalculationApp.exe
+C:\Users\HP\Desktop\C#\SalaryCalculationApp\obj\Debug\SalaryCalculationApp.pdb

@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\C#\PersonalInformationApp\bin\Debug\PersonalInformationApp.exe.config
+C:\Users\HP\Desktop\C#\PersonalInformationApp\bin\Debug\PersonalInformationApp.exe
+C:\Users\HP\Desktop\C#\PersonalInformationApp\bin\Debug\PersonalInformationApp.pdb
+C:\Users\HP\Desktop\C#\PersonalInformationApp\obj\Debug\PersonalInformationApp.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#\PersonalInformationApp\obj\Debug\PersonalInformationApp.PersonalInformationUI.resources
+C:\Users\HP\Desktop\C#\PersonalInformationApp\obj\Debug\PersonalInformationApp.Properties.Resources.resources
+C:\Users\HP\Desktop\C#\PersonalInformationApp\obj\Debug\PersonalInformationApp.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#\PersonalInformationApp\obj\Debug\PersonalInformationApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\PersonalInformationApp\obj\Debug\PersonalInformationApp.exe
+C:\Users\HP\Desktop\C#\PersonalInformationApp\obj\Debug\PersonalInformationApp.pdb

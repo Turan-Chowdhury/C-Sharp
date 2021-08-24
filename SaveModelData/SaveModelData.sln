@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveModelData", "SaveModelData.csproj", "{FDC3980C-CC56-41CD-9359-F2C2E646F297}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDC3980C-CC56-41CD-9359-F2C2E646F297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC3980C-CC56-41CD-9359-F2C2E646F297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC3980C-CC56-41CD-9359-F2C2E646F297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC3980C-CC56-41CD-9359-F2C2E646F297}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A47BEF35-4D48-47AB-870C-60E5E6D9AFC6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,33 @@
+﻿@model IEnumerable<SaveModelData.Models.Student>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th> Name </th>
+        <th> Reg No </th>
+        <th> Email </th>
+        <th></th>
+    </tr>
+
+@foreach (var student in Model) {
+<tr>
+    <td> @student.Name </td>
+    <td> @student.RegNo </td>
+    <td> @student.Email </td>
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id = student.Id }) |
+        @Html.ActionLink("Details", "Details", new { id = student.Id }) |
+        @Html.ActionLink("Delete", "Delete", new { id = student.Id })
+    </td>
+</tr>
+}
+
+</table>

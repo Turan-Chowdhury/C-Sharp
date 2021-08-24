@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\C#\ASP.NET\ReflectionExample\obj\Debug\ReflectionExample.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#\ASP.NET\ReflectionExample\obj\Debug\ReflectionExample.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\ASP.NET\ReflectionExample\bin\Debug\ReflectionExample.exe.config
+C:\Users\HP\Desktop\C#\ASP.NET\ReflectionExample\bin\Debug\ReflectionExample.exe
+C:\Users\HP\Desktop\C#\ASP.NET\ReflectionExample\bin\Debug\ReflectionExample.pdb
+C:\Users\HP\Desktop\C#\ASP.NET\ReflectionExample\obj\Debug\ReflectionExample.exe
+C:\Users\HP\Desktop\C#\ASP.NET\ReflectionExample\obj\Debug\ReflectionExample.pdb

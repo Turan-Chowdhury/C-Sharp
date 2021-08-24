@@ -1,0 +1,89 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Register</title>
+</head>
+<body>
+    <div> 
+        @using (Html.BeginForm("Create", "Student", FormMethod.Post, new { id = "myForm"}))
+        {
+        <fieldset>
+            <legend> Registration Form </legend>
+            <table>
+                <tr>
+                    <td>
+                        @Html.Label("Name")
+                    </td>
+                    <td>
+                        @Html.TextBox("Name")
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.Label("Email")
+                    </td>
+                    <td>
+                        @Html.TextBox("Email")
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.Label("Gender")
+                    </td>
+                    <td>
+                        @Html.RadioButton("Gender", "Male") Male
+                        @Html.RadioButton("Gender", "Female") Female
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.Label("DepartmentId")
+                    </td>
+                    <td>
+                        @Html.DropDownList("DepartmentId", new SelectList(ViewBag.Departments, "Id", "Name"), "--Select--")
+                        
+                        @*<select id="DepartmentId" name="DepartmentId">        
+                            <option value="">--select--</option>
+                            @foreach(var department in ViewBag.Departments)
+                            {
+                                <option value="@department.Id">@department.Name</option>
+                            }
+                        </select>*@
+
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.Label("Address")
+                    </td>
+                    <td>
+                        @Html.TextArea("Address")
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.Label("Password")
+                    </td>
+                    <td>
+                        @Html.Password("Password")
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <input type="submit" value="Register"/>
+                    </td>
+                </tr>
+            </table>
+        </fieldset>        
+        }
+    </div>
+</body>
+</html>

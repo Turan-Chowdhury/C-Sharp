@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\C#\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.Properties.Resources.resources
+C:\Users\HP\Desktop\C#\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe.config
+C:\Users\HP\Desktop\C#\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe
+C:\Users\HP\Desktop\C#\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.pdb
+C:\Users\HP\Desktop\C#\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.exe
+C:\Users\HP\Desktop\C#\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.pdb
+C:\Users\HP\Desktop\C#\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.EmployeeInformationUI.resources

@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\C#\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.StudentEntryUI.resources
+C:\Users\HP\Desktop\C#\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Properties.Resources.resources
+C:\Users\HP\Desktop\C#\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.exe.config
+C:\Users\HP\Desktop\C#\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.exe
+C:\Users\HP\Desktop\C#\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.pdb
+C:\Users\HP\Desktop\C#\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.exe
+C:\Users\HP\Desktop\C#\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb

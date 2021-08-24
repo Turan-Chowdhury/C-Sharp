@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\C#\HelloWorldInWindowsFormApp\obj\Debug\HelloWorldInWindowsFormApp.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#\HelloWorldInWindowsFormApp\obj\Debug\HelloWorldInWindowsFormApp.HelloWorldShowUI.resources
+C:\Users\HP\Desktop\C#\HelloWorldInWindowsFormApp\obj\Debug\HelloWorldInWindowsFormApp.Properties.Resources.resources
+C:\Users\HP\Desktop\C#\HelloWorldInWindowsFormApp\obj\Debug\HelloWorldInWindowsFormApp.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#\HelloWorldInWindowsFormApp\obj\Debug\HelloWorldInWindowsFormApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\HelloWorldInWindowsFormApp\bin\Debug\HelloWorldInWindowsFormApp.exe.config
+C:\Users\HP\Desktop\C#\HelloWorldInWindowsFormApp\bin\Debug\HelloWorldInWindowsFormApp.exe
+C:\Users\HP\Desktop\C#\HelloWorldInWindowsFormApp\bin\Debug\HelloWorldInWindowsFormApp.pdb
+C:\Users\HP\Desktop\C#\HelloWorldInWindowsFormApp\obj\Debug\HelloWorldInWindowsFormApp.exe
+C:\Users\HP\Desktop\C#\HelloWorldInWindowsFormApp\obj\Debug\HelloWorldInWindowsFormApp.pdb

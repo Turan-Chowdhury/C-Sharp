@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\C#\SeveralControlsExample\bin\Debug\SeveralControlsExample.exe.config
+C:\Users\HP\Desktop\C#\SeveralControlsExample\bin\Debug\SeveralControlsExample.exe
+C:\Users\HP\Desktop\C#\SeveralControlsExample\bin\Debug\SeveralControlsExample.pdb
+C:\Users\HP\Desktop\C#\SeveralControlsExample\obj\Debug\SeveralControlsExample.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#\SeveralControlsExample\obj\Debug\SeveralControlsExample.Form1.resources
+C:\Users\HP\Desktop\C#\SeveralControlsExample\obj\Debug\SeveralControlsExample.Properties.Resources.resources
+C:\Users\HP\Desktop\C#\SeveralControlsExample\obj\Debug\SeveralControlsExample.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#\SeveralControlsExample\obj\Debug\SeveralControlsExample.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\SeveralControlsExample\obj\Debug\SeveralControlsExample.exe
+C:\Users\HP\Desktop\C#\SeveralControlsExample\obj\Debug\SeveralControlsExample.pdb

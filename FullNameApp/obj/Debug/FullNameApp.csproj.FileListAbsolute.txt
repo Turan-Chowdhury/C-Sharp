@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\C#\FullNameApp\bin\Debug\FullNameApp.exe.config
+C:\Users\HP\Desktop\C#\FullNameApp\bin\Debug\FullNameApp.exe
+C:\Users\HP\Desktop\C#\FullNameApp\bin\Debug\FullNameApp.pdb
+C:\Users\HP\Desktop\C#\FullNameApp\obj\Debug\FullNameApp.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#\FullNameApp\obj\Debug\FullNameApp.Properties.Resources.resources
+C:\Users\HP\Desktop\C#\FullNameApp\obj\Debug\FullNameApp.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#\FullNameApp\obj\Debug\FullNameApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\FullNameApp\obj\Debug\FullNameApp.exe
+C:\Users\HP\Desktop\C#\FullNameApp\obj\Debug\FullNameApp.pdb
+C:\Users\HP\Desktop\C#\FullNameApp\obj\Debug\FullNameApp.FullNameUI.resources
